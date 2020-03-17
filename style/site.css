@@ -1,0 +1,106 @@
+header {
+    background-color: white;
+    margin: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+ul.links {
+    list-style-type: none;
+    margin: 0;
+    padding: 30px 60px;
+    display: inline-block;
+}
+
+ul.links li {
+    display: inline-block;
+
+}
+
+header a {
+    color: black ;
+    font-family: sans-serif;
+    text-decoration: none; 
+}
+
+body {
+    font-family: sans-serif;
+    margin: 0;
+    background-image: url("image/espaco.jpg");
+}
+
+div.fundo {
+    text-align: center;
+    color: white;
+}
+
+div.entrar {
+    padding: 94px;
+}
+
+div.fundo h1{
+    padding: 50px;
+    margin: 0;
+}
+
+main {
+    background-color: white;
+    text-align: center;
+}
+
+main p {
+    text-align: center;
+    padding: 60px 250px;
+    margin: 0;
+}
+
+main div.titulo {
+    margin: 0;
+    padding: 15px 250px;
+    color: purple;
+    text-align: center;
+}
+
+footer {
+    background-color: rgb(16, 5, 36);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+footer h3.footer {
+    margin: 0;
+}
+
+footer div {
+    padding: 25px 10px;
+    border: 10px;
+    display: inline-block;
+
+}
+
+footer div.contatos {
+    padding: 25px 10px;
+}
+
+footer h4 {
+    margin: 0;
+    padding: 0px 10px;
+}
+
+footer div.footer {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+footer div.footer h5 {
+    padding: 0px 10px;
+    margin: 0;
+    border: 0;
+    color: purple;
+    text-align: center;
+}
+
